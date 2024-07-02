@@ -1,0 +1,6 @@
+framework module Pods_CurrencyCompare {
+  umbrella header "Pods-CurrencyCompare-umbrella.h"
+
+  export *
+  module * { export * }
+}
